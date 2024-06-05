@@ -9,6 +9,7 @@ Welcome to the ReactJS project setup using Vite! This README file will guide you
 3. [Installation](#installation)
 4. [Setup](#setup)
 5. [Running the Application](#running-the-application)
+6. [Project Demo](#project-demo)
 
 ## Introduction
 
@@ -50,3 +51,5 @@ There is no additional setup required for this project beyond the installation s
 
     ```sh
     npm run dev
+## Project Demo
+Watch the [project demo video](https://drive.google.com/file/d/1YmjTwstZ2f6ryI5U5imx4s0Dvh1LVfSf/view?usp=sharing) for a quick overview.
